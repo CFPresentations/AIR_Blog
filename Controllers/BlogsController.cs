@@ -36,6 +36,7 @@ namespace AIR_Blog.Controllers
                 return HttpNotFound();
             }
             return View(blog);
+            //Testing Github
         }
 
         // GET: Blogs/Create
